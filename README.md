@@ -28,7 +28,7 @@
 ### - 업무 흐름
 <image src="doc/project_flow.png" style="width: 150px;"><br>
 
-### - 시연
+### - 자동화 시연
  <image src="doc/demonstrate.gif" style="width: 150px;"><br>
 
 1. 시연 환경
