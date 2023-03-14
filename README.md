@@ -14,7 +14,7 @@
 - iOS 9.3 이하: Apple의 <a href="https://web.archive.org/web/20160425114149/https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/" target="_blank">UIAutomation</a>
 - Android 4.3 이상: Google의 <a href="https://developer.android.com/training/testing/ui-automator?hl=ko" target="_blank">UiAutomator/UiAutomator2</a>
 
-## Appium 실행
+## Appium 동작
 ### - 제품 적용
 <image src="doc/launch_flow.jpg" style="width: 150px;"><br>
 1. Test Case 의 '시험 절차'와 '시험 결과' 의 스크립트 작성<br>
