@@ -18,7 +18,7 @@
 ### - 제품 적용
 <image src="doc/launch_flow.jpg" style="width: 150px;"><br>
 1. Test Case 의 '시험 절차'와 '시험 결과' 의 스크립트 작성<br>
- 언어: Java<br>
+ 사용 언어: Java<br>
  주요 라이브러리: <br>
   AndroidDriver(https://appium.github.io/java-client/io/appium/java_client/android/AndroidDriver.html)
   IOSDriver(https://appium.github.io/java-client/io/appium/java_client/ios/IOSDriver.html)
