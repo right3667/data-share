@@ -2,7 +2,7 @@
  ## java(eclipse) - database 연동 
  - https://github.com/right3667/data-share/blob/main/database_connect.md
   
-## Appium - iPhone 연동
+## Appium - iOS 연동
 - Android 4.3 이상: Google의 
 
 ## Appium 동작
