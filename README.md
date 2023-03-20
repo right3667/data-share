@@ -1,12 +1,6 @@
-# Appium-data
- ## Appium
- <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br>
- - 모바일 애플리케이션의 테스트 자동화를 가능하게 해주는 오픈소스 라이브러리
- - native, hybrid, mobile web 등 모든 타입의 모바일 애플리케이션의 테스트 자동화
- - WebDriver 프로토콜을 사용하여 iOS, Android 앱 구동
- - Java, Python, Javascript, Ruby, C# 언어 지원
- - Appium <a href="https://appium.io/" target="_blank">공식 페이지</a>
- - Appium <a href="https://github.com/appium" target="_blank">GitHub</a>
+# 데이터 공유
+ ## java(eclipse) - database 연동 
+ - https://github.com/right3667/data-share/blob/main/database_connect.md
   
 ## Appium 구조
 <image src="doc/structure_launch3.jpg" style="width: 150px;"><br>
