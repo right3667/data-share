@@ -1,4 +1,4 @@
-# 이클립스 - 오라클 DB 연동
+# java(eclipse) - database 연동
 ## 1. 오라클 JDBC 다운로드
   - JDBC(Java Database Connectivity)는 자바에서 데이터베이스에 접속할 수 있도록 하는 자바 API
   - 설치되어있는 Java 버전에 맞게 JDBC 다운로드
