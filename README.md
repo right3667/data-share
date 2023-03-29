@@ -5,9 +5,10 @@
 ## Appium - iOS 연동
 - Android 4.3 이상: Google의 
 
-## Appium 동작
-### - 제품 적용
-<image src="doc/launch_flow.jpg" style="width: 150px;"><br>
+## iOS, Android WIFI 디버깅
+- https://github.com/right3667/data-share/blob/main/wifi_debugging.md
+
+## i
 1. Test Case 의 '시험 절차'와 '시험 결과' 의 스크립트 작성<br>
  사용 언어: Java<br>
  주요 라이브러리: <br>
