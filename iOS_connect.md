@@ -1,11 +1,16 @@
-# java(eclipse) - database 연동
-## 1. 오라클 JDBC 다운로드
-  - JDBC(Java Database Connectivity)는 자바에서 데이터베이스에 접속할 수 있도록 하는 자바 API
-  - 설치되어있는 Java 버전에 맞게 JDBC 다운로드
-  - JDBC 다운로드: https://www.oracle.com/kr/database/technologies/appdev/jdbc-downloads.html<br>
-    <image src="doc/database_connect/jdbc11_download.PNG" style="width: 800px;"><br><br><br>  
-## 2. 오라클 JDBC 워크스페이스에 압축 해제
-  - 이클립스에서 작업하는 프로젝트가 있는 폴더에 JDBC 를 압축 해제<br>
+# Appium - iOS 연동
+## 1. 준비 사항
+  - Mac PC (맥북 또는 아이맥)
+  - iPhone
+  - 애플 개발자 계정
+## 2. WebDriverAgent(WDA) 설정
+  - WebDriverAgent는 iOs 기기를 조작할 수 있게 해주는 python library.
+  - Facebook에서 테스트를 위해 만든 library, 오픈소스
+  - Appium 에서 WebDriverAgent를 통해 iOS 기기를 제어하기 때문에 테스트 기기에 WDA 설치 필요
+  - WebDriverAgent 적용
+  2-1. Xcode에서 WDA 프로젝트 Clone
+  - asd
+  3. 
     <image src="doc/database_connect/unzip.png" style="width: 800px;"><br><br><br>
 
 ## 3. Build Path
