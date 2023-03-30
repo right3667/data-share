@@ -10,10 +10,10 @@
   
 ## Android WIFI 디버깅
  1. PC, Android device를 USB 연결 후 터미널에서 'adb devices' 명령어 입력하여 연결된 device 확인<br>
- <image src="doc/wifi_build/adb_devices_1.png" style="width: 600px;"><br><br><br>
+ <image src="doc/wifi_build/adb_devices_1.png" style="width: 800px;"><br><br><br>
  2. adb 에서 TCP/IP 연결을 하기위해 'adb tcpip 5555' 포트 열기<br>(5555 외 다른 포트 사용 가능)<br>
- <image src="doc/wifi_build/adb_tcpip.PNG" style="width: 600px;"><br><br><br>
+ <image src="doc/wifi_build/adb_tcpip.png" style="width: 800px;"><br><br><br>
  3. Android device의 IP주소에 연결을 위해 'adb connect <Android device IP주소>' 입력<br>
- <image src="doc/wifi_build/adb_connect.PNG" style="width: 600px;"><br><br><br>
+ <image src="doc/wifi_build/adb_connect.png" style="width: 800px;"><br><br><br>
  4. 'adb devices' 명령어 입력하여 네트워크로 연결된 device 확인<br>
- <image src="doc/wifi_build/adb_devices_2.png" style="width: 600px;"><br><br><br>
+ <image src="doc/wifi_build/adb_devices_2.png" style="width: 800px;"><br><br><br>
