@@ -26,7 +26,7 @@
     <image src="doc/iOS_connect/Product_Test.png" style="width: 800px;"><br>
     <image src="doc/iOS_connect/app_install.PNG" style="width: 400px;"><br><br><br>
 ## 4. Appium 연동
-  - Appium Inspector 실행하여 Capability 설정<br>
+  - Appium Inspector 실행하여 Capability 설정 후 'session start' 버튼 클릭<br>
     <image src="doc/iOS_connect/Appium_inspector.PNG" style="width: 800px;"><br><br><br>
   - 연동 완료<br>
     <image src="doc/iOS_connect/ios_appium_connect.PNG" style="width: 800px;"><br><br><br>
