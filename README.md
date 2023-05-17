@@ -8,14 +8,8 @@
 ## iOS, Android WIFI 디버깅
 - https://github.com/right3667/data-share/blob/main/wifi_debugging.md
 
-## idddd
-1. Test Case 의 '시험 절차'와 '시험 결과' 의 스크립트 작성<br>
- 사용 언어: Java<br>
- 주요 라이브러리: <br>
-  AndroidDriver(https://appium.github.io/java-client/io/appium/java_client/android/AndroidDriver.html)
-  IOSDriver(https://appium.github.io/java-client/io/appium/java_client/ios/IOSDriver.html)
-2. 테스트 구동 및 결과 확인
-3. 유지보수 진행
+## Android 패키지 이름, iOS bundle id 확인 방법
+- https://github.com/right3667/data-share/blob/main/wifi_debugging.md
 
 ### - 업무 흐름
 <image src="doc/project_flow.png" style="width: 150px;"><br>
