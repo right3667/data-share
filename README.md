@@ -9,7 +9,7 @@
 - https://github.com/right3667/data-share/blob/main/wifi_debugging.md
 
 ## Android 패키지 이름, iOS bundle id 확인 방법
-- https://github.com/right3667/data-share/blob/main/wifi_debugging.md
+- https://github.com/right3667/data-share/blob/main/app_name_check.md
 
 ### - 업무 흐름
 <image src="doc/project_flow.png" style="width: 150px;"><br>
