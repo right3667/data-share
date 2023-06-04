@@ -8,7 +8,7 @@
 ## iOS, Android WIFI 디버깅
 - https://github.com/right3667/data-share/blob/main/wifi_debugging.md
 
-## Android 패키지 이름, iOS bundle id 확인 방법
+## Android 패키지 이름, iOS bundle id 확인
 - https://github.com/right3667/data-share/blob/main/app_name_check.md
 
 ### - 업무 흐름
