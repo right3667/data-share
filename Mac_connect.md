@@ -8,11 +8,11 @@
 ### 2-2. appium-for-mac 적용
   - appium-for-mac 최신 릴리즈 다운로드(zip 파일) 및 압축 해제<br>
     https://github.com/appium/appium-for-mac/releases
-    <image src="doc/iOS_connect/Clone_project.png" style="width: 500px;"><br><br><br>
+    <image src="doc/Mac_connect/download.png" style="width: 500px;"><br><br><br>
   - 실행 및 개인정보 보호 및 보안 허용 설정<br>
-    <image src="doc/iOS_connect/WebDriverAgent_Clone.png" style="width: 500px;"><br><br><br>
+    <image src="doc/Mac_connect/permit.png" style="width: 500px;"><br><br><br>
 ## 3. Appium 연동
   - Appium Inspector 실행하여 Capability 설정 후 'start session' 버튼 클릭<br>
-    <image src="doc/iOS_connect/Appium_inspector.PNG" style="width: 800px;"><br><br><br>
+    <image src="doc/Mac_connect/Capability.png" style="width: 800px;"><br><br><br>
   - 연동 완료<br>
-    <image src="doc/iOS_connect/ios_appium_connect.PNG" style="width: 800px;"><br><br><br>
+    <image src="doc/Mac_connect/mac_appium_connect.png" style="width: 800px;"><br><br><br>
