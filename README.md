@@ -5,6 +5,9 @@
 ## Appium - iOS 연동
 - https://github.com/right3667/data-share/blob/main/iOS_connect.md
 
+## Appium - Mac 연동
+- https://github.com/right3667/data-share/blob/main/Mac_connect.md
+
 ## iOS, Android WIFI 디버깅
 - https://github.com/right3667/data-share/blob/main/wifi_debugging.md
 
