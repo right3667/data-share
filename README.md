@@ -13,3 +13,6 @@
 
 ## Android 패키지 이름, iOS bundle id 확인
 - https://github.com/right3667/data-share/blob/main/app_name_check.md
+
+## Chrome driver update
+- https://github.com/right3667/data-share/blob/main/chrome_driver_update.md
