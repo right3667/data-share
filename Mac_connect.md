@@ -1,6 +1,6 @@
 # Appium - Mac OS 연동
 ## 1. 준비 사항
-  - Mac PC (맥북 또는 아이맥)
+  - Mac PC (맥북 또는 아이맥)<br><br><br>
 ## 2. appium-for-mac 설정
 ### 2.1. appium-for-mac 이란
   - Selenium/WebDriver 및 OS X Accessibility API를 사용하여 Mac 애플리케이션의 기본 사용자 인터페이스 제어<br>
