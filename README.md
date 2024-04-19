@@ -16,3 +16,6 @@
 
 ## Chrome driver update
 - https://github.com/right3667/data-share/blob/main/chrome_driver_update.md
+
+## Eclipse - git 연동
+- https://github.com/right3667/data-share/blob/main/eclipse_git_connect.md
