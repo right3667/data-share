@@ -53,7 +53,7 @@
   - Windows 에도 java 가 설치되어 있으면 Runtime.getruntime().exec() 을 사용하면 되지만 java 가 설치되어있지 않기 때문에 Node.js 서버 구축<br>
     <image src="doc/Windows_connect/json_server.PNG" style="width: 800px;"><br><br><br>
   - json 서버 실행<br>
-    <image src="doc/Windows_connect/json_server.PNG" style="width: 800px;"><br><br><br>
+    <image src="doc/Windows_connect/json_server_start.PNG" style="width: 800px;"><br><br><br>
   - 프로그램 실행 명령어(cmd 에 windows 명령어 입력)<br>
     <image src="doc/Windows_connect/java_code.png" style="width: 800px;"><br><br><br>
 
