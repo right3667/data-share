@@ -55,6 +55,6 @@
   - json 서버 실행<br>
     <image src="doc/Windows_connect/json_server.PNG" style="width: 800px;"><br><br><br>
   - 프로그램 실행 명령어(cmd 에 windows 명령어 입력)<br>
-    <image src="doc/Windows_connect/java_code.PNG" style="width: 800px;"><br><br><br>
+    <image src="doc/Windows_connect/java_code.png" style="width: 800px;"><br><br><br>
 
     
