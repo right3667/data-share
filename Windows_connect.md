@@ -42,19 +42,19 @@
 
 ## 5. Appium 원격 실행
 ### 5.1 Windows 에서 관리자 CMD 실행 후 원격 접속 가능하도록 Appium 서버 실행
-  - appium server --address 0.0.0.0 --port 4723
+  - appium server --address 0.0.0.0 --port 4723<br>
     <image src="doc/Windows_connect/appium_ip_any_start.PNG" style="width: 800px;"><br><br><br>
 ### 5.2 Mac 에서 inspector 로 연결
   - Mac PC 에서 접속 할 서버 ip, Capability 설정 'start session' 버튼 클릭<br>
-    <image src="doc/Windows_connect/mac_inspector_connect.PNG" style="width: 800px;"><br><br><br>
+    <image src="doc/Windows_connect/mac_inspector_connect.png" style="width: 800px;"><br><br><br>
   - 연동 완료<br>
-    <image src="doc/Windows_connect/connect_complete.PNG" style="width: 800px;"><br><br><br>
+    <image src="doc/Windows_connect/connect_complete.png" style="width: 800px;"><br><br><br>
 ### 5.3 프로그램 실행 방법
-  - Windows 에도 java 가 설치되어 있으면 Runtime.getruntime().exec() 을 사용하면 되지만 java 가 설치되어있지 않기 때문에 Node.js 서버 구축
+  - Windows 에도 java 가 설치되어 있으면 Runtime.getruntime().exec() 을 사용하면 되지만 java 가 설치되어있지 않기 때문에 Node.js 서버 구축<br>
     <image src="doc/Windows_connect/json_server.PNG" style="width: 800px;"><br><br><br>
-  - json 서버 실행
+  - json 서버 실행<br>
     <image src="doc/Windows_connect/json_server.PNG" style="width: 800px;"><br><br><br>
-  - 프로그램 실행 명령어(cmd 에 windows 명령어 입력)
+  - 프로그램 실행 명령어(cmd 에 windows 명령어 입력)<br>
     <image src="doc/Windows_connect/java_code.PNG" style="width: 800px;"><br><br><br>
 
     
